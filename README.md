@@ -1,4 +1,4 @@
-# Junkluggers Corp Email Signature Generator for Microsoft Outlook
+# Junkluggers Three Brand Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
